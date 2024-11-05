@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onejuose.github.io/Pqg/sitemap_index.txt
+Sitemap: https://onejuose.github.io/drc/sitemap_index.txt
+Sitemap: https://onejuose.github.io/jfI/sitemap_index.txt
+Sitemap: https://onejuose.github.io/uLy/sitemap_index.txt
